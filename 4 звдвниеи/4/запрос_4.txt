@@ -1,0 +1,5 @@
+('exquisite peach', 28)
+('trendy melon', 12)
+('gorgeous facial cleanser', 21)
+('magnificent peach', 9)
+('stylish toothpaste', 37)
