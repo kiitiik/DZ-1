@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "Healthcare",
+        "count": 1332
+    },
+    {
+        "_id": "Artist",
+        "count": 2516
+    },
+    {
+        "_id": "Homemaker",
+        "count": 246
+    },
+    {
+        "_id": "Entertainment",
+        "count": 949
+    },
+    {
+        "_id": "Executive",
+        "count": 599
+    },
+    {
+        "_id": "Marketing",
+        "count": 292
+    },
+    {
+        "_id": "Engineer",
+        "count": 699
+    },
+    {
+        "_id": "Doctor",
+        "count": 688
+    },
+    {
+        "_id": "Lawyer",
+        "count": 623
+    },
+    {
+        "_id": "nan",
+        "count": 124
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "_id": "RSA",
+        "max_price": 1435.29
+    },
+    {
+        "_id": "Israel",
+        "max_price": 125.0
+    },
+    {
+        "_id": "Czech Republic",
+        "max_price": 40.0
+    },
+    {
+        "_id": "Denmark",
+        "max_price": 18.0
+    },
+    {
+        "_id": "European Community",
+        "max_price": 18.0
+    },
+    {
+        "_id": "Japan",
+        "max_price": 45.57
+    },
+    {
+        "_id": "Nigeria",
+        "max_price": 27.82
+    },
+    {
+        "_id": "Cyprus",
+        "max_price": 320.69
+    },
+    {
+        "_id": "Sweden",
+        "max_price": 874.84
+    },
+    {
+        "_id": "Malta",
+        "max_price": 1868.56
+    },
+    {
+        "_id": "Australia",
+        "max_price": 662.25
+    },
+    {
+        "_id": "Bahrain",
+        "max_price": 14.95
+    },
+    {
+        "_id": "France",
+        "max_price": 4161.06
+    },
+    {
+        "_id": "Poland",
+        "max_price": 40.0
+    },
+    {
+        "_id": "Iceland",
+        "max_price": 12.75
+    },
+    {
+        "_id": "Greece",
+        "max_price": 50.0
+    },
+    {
+        "_id": "Switzerland",
+        "max_price": 850.0
+    },
+    {
+        "_id": "Singapore",
+        "max_price": 3949.32
+    },
+    {
+        "_id": "Austria",
+        "max_price": 130.0
+    },
+    {
+        "_id": "EIRE",
+        "max_price": 2736.16
+    },
+    {
+        "_id": "Germany",
+        "max_price": 715.02
+    },
+    {
+        "_id": "Hong Kong",
+        "max_price": 2653.95
+    },
+    {
+        "_id": "Portugal",
+        "max_price": 1241.98
+    },
+    {
+        "_id": "Thailand",
+        "max_price": 12.75
+    },
+    {
+        "_id": "Channel Islands",
+        "max_price": 934.66
+    },
+    {
+        "_id": "Finland",
+        "max_price": 275.6
+    },
+    {
+        "_id": "Unspecified",
+        "max_price": 1189.94
+    },
+    {
+        "_id": "Italy",
+        "max_price": 660.86
+    },
+    {
+        "_id": "Lithuania",
+        "max_price": 8.5
+    },
+    {
+        "_id": "Canada",
+        "max_price": 550.94
+    },
+    {
+        "_id": "Netherlands",
+        "max_price": 947.08
+    },
+    {
+        "_id": "United Kingdom",
+        "max_price": 38970.0
+    },
+    {
+        "_id": "Spain",
+        "max_price": 1715.85
+    },
+    {
+        "_id": "Belgium",
+        "max_price": 1508.65
+    },
+    {
+        "_id": "Norway",
+        "max_price": 6958.17
+    },
+    {
+        "_id": "Saudi Arabia",
+        "max_price": 5.49
+    },
+    {
+        "_id": "USA",
+        "max_price": 170.0
+    },
+    {
+        "_id": "Brazil",
+        "max_price": 10.95
+    },
+    {
+        "_id": "Bermuda",
+        "max_price": 12.75
+    },
+    {
+        "_id": "United Arab Emirates",
+        "max_price": 503.9
+    },
+    {
+        "_id": "West Indies",
+        "max_price": 7.95
+    },
+    {
+        "_id": "Lebanon",
+        "max_price": 39.95
+    },
+    {
+        "_id": "Korea",
+        "max_price": 5.95
+    }
+]
